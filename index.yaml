@@ -1,0 +1,26 @@
+apiVersion: v1
+entries:
+  guestbook:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2024-08-27T17:21:42.346716557+09:00"
+    description: JADECROSS 교육용 웹어플리케이션
+    digest: 5f1b206f7d55221706deaa6125975bda9afce5daeda23311319b8c4279a31469
+    home: https://www.jadecross.com/
+    icon: https://www.jadecross.com/logo.svg
+    keywords:
+    - 성능 테스트 및 모니터링
+    - 성능 관리 솔루션 제공
+    - 성능 진단, 분석 및 최적화 컨설팅
+    maintainers:
+    - email: yu3papa.j@gmail.com
+      name: yu3papa
+    - email: coordinatorj@jadecross.com
+      name: coordinatorj
+    name: guestbook
+    sources:
+    - https://github.com/yu3papa/edu-lab
+    urls:
+    - guestbook-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-08-27T17:21:42.345679355+09:00"
